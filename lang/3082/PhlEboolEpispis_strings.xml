@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <PhlEboolEpispis>Phlebolepis</PhlEboolEpispis>
+      <PhlEboolEpispis_stt>Phlebolepis</PhlEboolEpispis_stt>
+      <PhlEboolEpispis_lower>El Phlebolepis</PhlEboolEpispis_lower>
+      <PhlEboolEpispis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Phlebolepis</b>
+         </color>
+         <br/>
+         Click para adoptar un Phlebolepis.
+      </PhlEboolEpispis_ltt>
+      <!--gift names-->
+      <PhlEboolEpispis_Gift>Mochila de Phlebolepis</PhlEboolEpispis_Gift>
+      <PhlEboolEpispis_Gift_stt>Mochila de Phlebolepis</PhlEboolEpispis_Gift_stt>
+      <PhlEboolEpispis_Gift_lower>La Mochila de Phlebolepis</PhlEboolEpispis_Gift_lower>
+      <PhlEboolEpispis_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Phlebolepis</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Phlebolepis.
+      </PhlEboolEpispis_Gift_ltt>
+</entityname>
+<zoopedia_phleboolepispis>
+ <entry>Phlebolepis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/PhlEboolEpispis/PhlEboolEpispis_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extincto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Thelodonti)</i><br/>Orden: Phlebolepidiformes <br/>Familia: Phlebolepididae <br/>Genero: <i>Phlebolepis</i><br/>Especie: <i>P. elegans</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Phlebolepis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">En el genero Phlebolepis se clasifican 2 especies.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Surgio en el Silurico.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Puede llegar a medir 10 centimetros de largo.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Phlebolepis necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>Este es el primer pez Thelodonte hecho para Zoo Tycoon 2. Los thelodontes son unos peces agnatos que han vivido desde el ordovicico hasta el devonico. Podian vivir tanto en aguas dulces como saladas. La mayoria son peces pequeños, con una boca redonda como la de los anaspidos, con los cuales eran emparentados. El genero Phlebolepis esta compuesto por dos especies que vivieron en el silurico: Phlebolepis ornata y Phlebolepis elegans (este). Los fosiles de Phlebolepis se han encontrado en el Baltico, Europa, Norte America, Russia y Siberia.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color> Imago
+  </cell>
+ </text>
+</zoopedia_phleboolepispis>
+</ZT2Strings>

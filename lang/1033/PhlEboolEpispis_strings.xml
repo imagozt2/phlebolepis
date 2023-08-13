@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <PhlEboolEpispis>Phlebolepis</PhlEboolEpispis>
+      <PhlEboolEpispis_stt>Phlebolepis</PhlEboolEpispis_stt>
+      <PhlEboolEpispis_lower>The Phlebolepis</PhlEboolEpispis_lower>
+      <PhlEboolEpispis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Phlebolepis</b>
+         </color>
+         <br/>
+         Click to adopt a Phlebolepis.
+      </PhlEboolEpispis_ltt>
+      <!--gift names-->
+      <PhlEboolEpispis_Gift>Phlebolepis rucksack</PhlEboolEpispis_Gift>
+      <PhlEboolEpispis_Gift_stt>Phlebolepis rucksack</PhlEboolEpispis_Gift_stt>
+      <PhlEboolEpispis_Gift_lower>The Phlebolepis rucksack</PhlEboolEpispis_Gift_lower>
+      <PhlEboolEpispis_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Phlebolepis rucksack</b>
+         </color>
+         <br/>The people buy this gift when it sees the Phlebolepis.
+      </PhlEboolEpispis_Gift_ltt>
+</entityname>
+<zoopedia_phleboolepispis>
+ <entry>Phlebolepis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/PhlEboolEpispis/PhlEboolEpispis_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Sea<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>(Thelodonti)</i><br/>Order: Phlebolepidiformes <br/>Family:  Phlebolepididae <br/>Generate: <i>Phlebolepis</i><br/>Specis: <i>P. elegans</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts of Phlebolepis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">In the genus Phlebolepis are classificated 2 species.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Its measure 10 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Live in Silurian.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unblock the Phlebolepis you need 1 star of reputation in your zoo. 
+   </color>
+   <p/>This is the first fish Thelodonte made ​​for Zoo Tycoon 2. The agnates thelodontes are some fish that lived from the Ordovician to Devonian. They could live in both freshwater and saltwater. Most are small fish, with a round mouth like that of the anaspidos, with whom were related. Phlebolepis The genus consists of two species that lived in the Silurian: Phlebolepis ornata and Phlebolepis elegans (this). The Phlebolepis fossils have been found in the Baltic, Europe, North America, Russia and Siberia.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content from <color r="255" g="231" b="135">Wikipedia</color>Imago
+  </cell>
+ </text>
+</zoopedia_phleboolepispis>
+</ZT2Strings>

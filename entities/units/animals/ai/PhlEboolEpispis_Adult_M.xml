@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="PhlEboolEpispis_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <PhlEboolEpispis>
+                           <PhlEboolEpispis_Adult>
+                              <PhlEboolEpispis_Adult_M/>
+                           </PhlEboolEpispis_Adult>
+                        </PhlEboolEpispis>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\PhlEboolEpispis\PhlEboolEpispis_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="PhlEboolEpispis_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>
